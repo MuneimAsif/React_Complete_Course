@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Sam Altman",
+      "email": "sam.com",
+      "age": "39",
+      "id": "56b1"
+    },
+    {
+      "name": "Russel",
+      "age": "28",
+      "email": "russel.com",
+      "id": "cfdd"
+    },
+    {
+      "name": "abc",
+      "email": "abc.com",
+      "age": "25",
+      "id": "241f"
+    }
+  ]
+}
